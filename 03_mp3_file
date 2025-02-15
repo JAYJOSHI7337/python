@@ -1,2 +1,2 @@
 from playsound import playsound
-playsound('D:\\python\\play.mp3.mp3')
+playsound('F:\\python\\chapter\\chapter_1_module_comment_pip\\play.mp3')
